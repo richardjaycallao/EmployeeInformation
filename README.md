@@ -11,7 +11,7 @@ Key implementations:
 - Logging using Serilog
 - Unit test using NUnit and Moq
 - Clean architecture
-- Autommapper for field mapping
+- Automapper for field mapping
 - Swagger for endpoint documentation
 - Code-first approach
 - Entity framework
