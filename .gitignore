@@ -1,0 +1,11 @@
+EmployeeInformation.Api/bin/
+EmployeeInformation.Api/obj/
+EmployeeInformation.Core/bin/
+EmployeeInformation.Core/obj/
+EmployeeInformation.Domain/bin/
+EmployeeInformation.Domain/obj/
+EmployeeInformation.Infrastracture/obj/
+EmployeeInformation.Tests/bin/
+EmployeeInformation.Tests/obj/
+EmployeeInformation.Infrastracture/bin/
+EmployeeInformation.Api/Properties/
